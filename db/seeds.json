@@ -3,30 +3,35 @@
     {
       "id": 1,
       "image": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+      "type": "Tech",
       "title": "Sonair",
       "content": "tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit"
     },
     {
       "id": 2,
       "image": "http://dummyimage.com/162x100.png/cc0000/ffffff",
+      "type": "Food",
       "title": "Konklux",
       "content": "augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum"
     },
     {
       "id": 3,
       "image": "http://dummyimage.com/165x100.png/dddddd/000000",
+      "type": "Life",
       "title": "Bitwolf",
       "content": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis"
     },
     {
       "id": 4,
       "image": "http://dummyimage.com/223x100.png/cc0000/ffffff",
+      "type": "Tech",
       "title": "Prodder",
       "content": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus"
     },
     {
       "id": 5,
       "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
+      "type": "Food",
       "title": "Transcof",
       "content": "pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat"
     }
