@@ -2,16 +2,16 @@
   "blogs": [
     {
       "id": 1,
-      "image": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+      "image": "https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2300&q=80",
       "type": "Tech",
-      "title": "Sonair",
+      "title": "Macbook Pro 13in",
       "content": "tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit"
     },
     {
       "id": 2,
-      "image": "http://dummyimage.com/162x100.png/cc0000/ffffff",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80",
       "type": "Food",
-      "title": "Konklux",
+      "title": "Breakfast",
       "content": "augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum"
     },
     {
@@ -23,16 +23,16 @@
     },
     {
       "id": 4,
-      "image": "http://dummyimage.com/223x100.png/cc0000/ffffff",
+      "image": "https://images.unsplash.com/photo-1587134160474-cd3c9a60a34a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80",
       "type": "Tech",
-      "title": "Prodder",
+      "title": "GPU Shortage",
       "content": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus"
     },
     {
       "id": 5,
-      "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
+      "image": "https://images.unsplash.com/photo-1571805618149-3a772570ebcd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80",
       "type": "Food",
-      "title": "Transcof",
+      "title": "A Burger Date",
       "content": "pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat"
     }
   ]
